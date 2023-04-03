@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelibi - Launching Soon</title>
+    <link>https://intelibi.com/</link>
+    <description>Recent content on Intelibi - Launching Soon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2023 12:50:40 +0545</lastBuildDate><atom:link href="https://intelibi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiring Data Analysts</title>
+      <link>https://intelibi.com/posts/data-analyst/</link>
+      <pubDate>Mon, 03 Apr 2023 12:50:40 +0545</pubDate>
+      
+      <guid>https://intelibi.com/posts/data-analyst/</guid>
+      <description>We are seeking talented and experienced Data Analysts to join our team. The successful candidate will have strong technical skills in Python and SQL to analyze data, develop insights and provide recommendations to drive business decisions.
+Responsibilities: Analyze complex data sets using SQL and Python to extract insights, trends, and patterns. Develop visualizations, dashboards, and reports to communicate data-driven insights to business stakeholders. Collaborate with cross-functional teams to understand business requirements, identify data needs, and develop analytical solutions to address business challenges.</description>
+    </item>
+    
+    <item>
+      <title>Hiring Data Engineers</title>
+      <link>https://intelibi.com/posts/data-engineer/</link>
+      <pubDate>Mon, 03 Apr 2023 12:50:27 +0545</pubDate>
+      
+      <guid>https://intelibi.com/posts/data-engineer/</guid>
+      <description>We are seeking talented and experienced Data Engineers to join our team. The successful candidate will have strong technical skills in Python and SQL, and modern data warehouse technologies to design, build, and maintain our data infrastructure.
+Responsibilities: Design, develop and maintain scalable and reliable data pipelines to support data ingestion, processing, and storage using Python, SQL, and ETL tools like Airflow, dbt, and PySpark. Develop and maintain data warehouse infrastructure in Databricks or Snowflake.</description>
+    </item>
+    
+  </channel>
+</rss>

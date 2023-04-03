@@ -1,0 +1,4 @@
+baseURL = 'https://intelibi.com/'
+languageCode = 'en-us'
+title = 'Intelibi - Launching Soon'
+theme = 'ananke'
