@@ -24,6 +24,6 @@ We are seeking talented and experienced Data Engineers to join our team. The suc
 - Experience with cloud computing platforms such as AWS or GCP.
 - Excellent communication skills, ability to collaborate in a team environment, and work independently in a fast-paced environment.
 
-If you are passionate about data engineering and possess the technical skills and experience required for this position, we encourage you to <a href="https://smrtr.io/dC_FT">apply.</a>
+If you are passionate about data engineering and possess the technical skills and experience required for this position, we encourage you to [apply.](https://smrtr.io/dC_FT)
 
 

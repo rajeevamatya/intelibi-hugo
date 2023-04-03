@@ -24,4 +24,5 @@ We are seeking talented and experienced Data Analysts to join our team. The succ
 - Ability to work independently in a fast-paced environment with multiple priorities and stakeholders.
 - Excellent communication skills, ability to collaborate in a team environment, and work cross-functionally.
 
-If you are passionate about data analysis and possess the technical skills and experience required for this position, we encourage you to <a href="https://smrtr.io/dC_3S">apply.</a>
+If you are passionate about data analysis and possess the technical skills and experience required for this position, we encourage you to [apply](https://smrtr.io/dC_3S)
+
