@@ -28,5 +28,3 @@ We are seeking a dynamic and motivated Sales and Marketing Associate to join our
 
 
 If you are a motivated sales and marketing professional with a track record of success, we encourage you to [apply.](https://smrtr.io/dKzf3)
-
-
